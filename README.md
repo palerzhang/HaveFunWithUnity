@@ -5,6 +5,7 @@ This project will contain many sub-projects. Each project is to do something int
 Just have fun.
 
 Todo list:
+0. Geometry Shader
 1. Unity Depth Buffer
 2. Voxelization
 3. Water Simulation
